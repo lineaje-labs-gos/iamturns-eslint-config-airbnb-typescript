@@ -62,5 +62,13 @@
     "javascript",
     "styleguide",
     "typescript"
-  ]
+  ],
+  "overrides": {
+    "minimatch": ">=3.1.5",
+    "flatted": ">=3.4.2"
+  },
+  "resolutions": {
+    "minimatch": ">=3.1.5",
+    "flatted": ">=3.4.2"
+  }
 }
